@@ -1,3 +1,5 @@
+// najnowsza wersja programu z graficznym przedstawieniem nieskończonych możliwości w pliku readme
+
 public class DowolonyProgram {
     public static void main(String[] args) {
         int a = 10;
@@ -10,3 +12,4 @@ public class DowolonyProgram {
 
     }
 }
+
