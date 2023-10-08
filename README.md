@@ -6,6 +6,7 @@ Program obecnie operuje na 3 zmiennych typu:
 1. int
 2. float
 3. long
+
 Jednak tak samo jak z liczbą funkcji, można rozszerzyć jego możliwości.
 
 ![Nieskończone możliwości naszego opgrowamania](https://i.imgur.com/zufMmts.jpeg)
